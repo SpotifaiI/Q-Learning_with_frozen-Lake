@@ -102,3 +102,15 @@ class CustomRewardWrapper(gym.Wrapper):
 ![simulation](./images/in_pygame_demo.gif)
 
 </div>
+
+## Getting Started
+
+Para rodar o processo por completo, inclusive com os gráficos, é necessário instalar em sua máquina o pacote abaixo.
+```shell
+$ sudo apt install swig
+```
+
+Após isso, então basta executar o arquivo `main.py` que todo o restante será executado conforme necessário.
+```shell
+$ python3 main.py
+```
