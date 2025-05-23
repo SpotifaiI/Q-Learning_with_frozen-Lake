@@ -96,3 +96,9 @@ class CustomRewardWrapper(gym.Wrapper):
 ![simulation](./images/in_pygame_sim.png)
 
 </div>
+
+<div align='center'>
+
+![simulation](./images/in_pygame_demo.gif)
+
+</div>
