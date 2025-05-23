@@ -1,5 +1,13 @@
 # Aplicação do Q-Learning no Frozen Lake
 
+## Equipe
+
+* Cristian Prochnow
+* Gustavo Henrique Dias
+* Lucas Willian de Souza Serpa
+* Marlon de Souza
+* Ryan Gabriel Mazzei Bromati
+
 ## Parâmetros do Q-Learning
 
 - **alpha = 0.1**  
